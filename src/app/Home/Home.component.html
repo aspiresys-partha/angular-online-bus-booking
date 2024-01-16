@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>City Travels</title>
+  </head>
+  <body>
+    <div class="example-container" *ngIf="isDisplayed">
+      <mat-card>
+        <mat-card-content>
+          <span>
+            Buses are the perfect way to travel. They’re cheap, they’re
+            convenient, and they go everywhere.<br />
+            <br />
+            There is something about bus travel that strips away all of the
+            veneers of modern life. It’s raw and real, and you are reminded of
+            what’s important.</span
+          >
+          <br />
+          <br />
+          <span>{{ display }}</span>
+        </mat-card-content>
+      </mat-card>
+    </div>
+    <header class="hero-section">
+      <div class="hero-text-container">
+        <h1>City Travels<br /></h1>
+        <h3>Book Your Bus Tickets & Wander Around !</h3>
+        <p>
+          Bus travel is a chance to sit back, relax, and watch the world go
+          by.<br />
+          It's a chance to disconnect from the distractions of everyday life and
+          to connect with your surroundings.
+        </p>
+      </div>
+      <div class="hero-img-container">
+        <img src="assets/image/Bus driver.gif" alt="" />
+      </div>
+    </header>
+  </body>
+</html>

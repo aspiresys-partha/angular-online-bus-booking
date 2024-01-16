@@ -1,0 +1,244 @@
+{
+  "logger": [
+    {
+      "level": 5,
+      "additional": [],
+      "message": "userId : 1001 - Logout Successfully",
+      "timestamp": "2023-08-09T19:14:31.168Z",
+      "fileName": "main.js",
+      "lineNumber": 4004,
+      "columnNumber": 17,
+      "id": 1
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User Selected Location  \\n Source : Coimbatore \\n Destination : Chennai \\n Date : 2023-08-29",
+      "timestamp": "2023-08-14T16:59:57.915Z",
+      "fileName": "main.js",
+      "lineNumber": 2863,
+      "columnNumber": 17,
+      "id": 2
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Location  \\n Source : Coimbatore \\n Destination : Chennai \\n Date : 2023-08-29",
+      "timestamp": "2023-08-14T17:03:30.425Z",
+      "fileName": "main.js",
+      "lineNumber": 2863,
+      "columnNumber": 17,
+      "id": 3
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Location  \\n Source : Coimbatore \\n Destination : Chennai \\n Date : 2023-08-29",
+      "timestamp": "2023-08-14T17:09:20.867Z",
+      "fileName": "main.js",
+      "lineNumber": 2867,
+      "columnNumber": 17,
+      "id": 4
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Travels  : Abi Travels",
+      "timestamp": "2023-08-14T17:09:23.806Z",
+      "fileName": "main.js",
+      "lineNumber": 2712,
+      "columnNumber": 17,
+      "id": 5
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Seats  : [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]",
+      "timestamp": "2023-08-14T17:09:30.857Z",
+      "fileName": "main.js",
+      "lineNumber": 3036,
+      "columnNumber": 17,
+      "id": 6
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Seats  : 14,17,18,19,20,27,34",
+      "timestamp": "2023-08-14T17:12:47.836Z",
+      "fileName": "main.js",
+      "lineNumber": 3036,
+      "columnNumber": 17,
+      "id": 7
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User : 1001 Selected Seats  : 34,38",
+      "timestamp": "2023-08-14T17:14:14.308Z",
+      "fileName": "main.js",
+      "lineNumber": 3036,
+      "columnNumber": 17,
+      "id": 8
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Admin - 1 - Login Success",
+      "timestamp": "2023-08-19T18:12:05.827Z",
+      "fileName": "main.js",
+      "lineNumber": 4235,
+      "columnNumber": 21,
+      "id": 9
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Admin - 1 - Login Success",
+      "timestamp": "2023-08-19T18:12:26.109Z",
+      "fileName": "main.js",
+      "lineNumber": 4235,
+      "columnNumber": 21,
+      "id": 10
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Sky Travels (8) Edited successfully",
+      "timestamp": "2023-08-19T18:14:35.546Z",
+      "fileName": "main.js",
+      "lineNumber": 134,
+      "columnNumber": 21,
+      "id": 11
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Admin - 1 downloaded City Travels's passenger list on 2023-08-19 11:44:56 PM",
+      "timestamp": "2023-08-19T18:14:56.325Z",
+      "fileName": "main.js",
+      "lineNumber": 550,
+      "columnNumber": 17,
+      "id": 12
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Bus :- 6modified to active status",
+      "timestamp": "2023-08-19T18:16:32.849Z",
+      "fileName": "main.js",
+      "lineNumber": 516,
+      "columnNumber": 17,
+      "id": 13
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Bus :- 6 modified to inactive status",
+      "timestamp": "2023-08-19T18:18:14.570Z",
+      "fileName": "main.js",
+      "lineNumber": 516,
+      "columnNumber": 17,
+      "id": 14
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Bus :- 6 modified to active status",
+      "timestamp": "2023-08-19T18:18:28.352Z",
+      "fileName": "main.js",
+      "lineNumber": 516,
+      "columnNumber": 17,
+      "id": 15
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Bus :- 6 modified to inactive status",
+      "timestamp": "2023-08-19T18:19:25.276Z",
+      "fileName": "main.js",
+      "lineNumber": 516,
+      "columnNumber": 17,
+      "id": 16
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Bus :- 6 modified to active status",
+      "timestamp": "2023-08-19T18:19:29.532Z",
+      "fileName": "main.js",
+      "lineNumber": 516,
+      "columnNumber": 17,
+      "id": 17
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "adminId : 1 - Logout Successfully",
+      "timestamp": "2023-08-19T18:19:49.829Z",
+      "fileName": "main.js",
+      "lineNumber": 4050,
+      "columnNumber": 17,
+      "id": 18
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Admin - 1 - Login Success",
+      "timestamp": "2023-08-19T18:20:04.352Z",
+      "fileName": "main.js",
+      "lineNumber": 4237,
+      "columnNumber": 21,
+      "id": 19
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Admin - 1 - Login Successfully",
+      "timestamp": "2023-08-19T18:23:38.745Z",
+      "fileName": "main.js",
+      "lineNumber": 4235,
+      "columnNumber": 21,
+      "id": 20
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "adminId : 1 - Logout Successfully",
+      "timestamp": "2023-08-19T18:23:56.899Z",
+      "fileName": "main.js",
+      "lineNumber": 4048,
+      "columnNumber": 17,
+      "id": 21
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Signup successfull",
+      "timestamp": "2023-08-19T18:32:33.042Z",
+      "fileName": "main.js",
+      "lineNumber": 4225,
+      "columnNumber": 21,
+      "id": 22
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "Signup successfull",
+      "timestamp": "2023-08-19T18:34:15.650Z",
+      "fileName": "main.js",
+      "lineNumber": 4225,
+      "columnNumber": 21,
+      "id": 23
+    },
+    {
+      "level": 5,
+      "additional": [],
+      "message": "User - 2931 - Login Successfully",
+      "timestamp": "2023-08-19T18:35:03.521Z",
+      "fileName": "main.js",
+      "lineNumber": 4209,
+      "columnNumber": 21,
+      "id": 24
+    }
+  ]
+}

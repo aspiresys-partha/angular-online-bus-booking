@@ -1,0 +1,43 @@
+<body>
+  <div class="container">
+    <div class="userdetails">
+      <div class="inputbox">
+        <span class="details">From</span>
+        <select name="source" required [(ngModel)]="sourceLocation">
+          <option *ngFor="let location of locations" [value]="location">
+            {{ location }}
+          </option>
+        </select>
+      </div>
+      <div class="inputbox">
+        <span class="details">To</span>
+        <select name="destination" required [(ngModel)]="destinationLocation">
+          <option *ngFor="let location of locations" [value]="location">
+            {{ location }}
+          </option>
+        </select>
+      </div>
+
+      <div class="inputbox">
+        <span class="details">Date</span>
+        <input
+          type="date"
+          name="date"
+          [min]="minDate"
+          required
+          [(ngModel)]="dateSelected"
+        />
+      </div>
+    </div>
+    <div class="button">
+      <button
+        [disabled]="searchButtonDisabled()"
+        color="primary"
+        style="margin-top: 20%; padding: 10px 20px"
+        (click)="navigateTo()"
+      >
+        Search Buses
+      </button>
+    </div>
+  </div>
+</body>
